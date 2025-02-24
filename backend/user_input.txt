@@ -1,0 +1,61 @@
+{
+    "business_name": "roaa hotel",
+    "employees_number": "300",
+    "phone_number": "2345"
+}
+{
+    "business_name": "Roaa hotel",
+    "employees_number": "300",
+    "phone_number": "2345"
+}
+{
+    "business_name": "Roaa hotel",
+    "employees_number": "300",
+    "phone_number": "2345"
+}
+{
+    "business_name": "roaa",
+    "employees_number": 300,
+    "phone_number": "3456"
+}
+{
+    "business_name": "roaa",
+    "employees_number": "300",
+    "phone_number": "3456"
+}
+{
+    "what_is_the_total_area_in_square_meters_(m)_required_for_the_eco-friendly_decorations_in_the_restaurant": "200",
+    "what_is_the_cost_of_eco-friendly_decorations_per_m_in_nis": "22",
+    "what_is_the_area_of_the_swimming_pool_in_square_meters": "22",
+    "what_is_the_area_of_the_restaurant_in_square_meters_(m2)": "22",
+    "what_is_the_total_area_of_the_restaurant_in_square_meters": "22",
+    "what_is_the_required_area_in_square_meters_for_the_restaurant's_eco-friendly_decorations": "22",
+    "what_is_the_cost_per_square_meter_for_the_restaurant_in_nis": "22",
+    "what_is_the_total_area_of_eco-friendly_decorations_required_for_the_restaurant_in_square_meters": "22",
+    "what_is_the_cost_of_eco-friendly_decorations_for_restaurants_in_nis_per_m2": "22",
+    "what_is_the_total_area_in_square_meters_(m)_required_for_the_swimming_pool_surrounding_area_decorations": "22",
+    "what_is_the_cost_per_square_meter_for_decorations_in_the_swimming_pool_surrounding_area_in_nis": "22",
+    "what_is_the_total_area_of_the_small_mountain_chalet_in_square_meters": "22",
+    "what_is_the_estimated_market_value_of_the_small_mountain_chalet": "33",
+    "what_is_the_estimated_cost_for_the_decorations_of_the_small_mountain_chalet": "11",
+    "what_is_the_value_associated_with_the_duplex_chalet_(1)": "11",
+    "what_is_the_estimated_cost_for_the_decorations_of_the_duplex_chalet": "22",
+    "what_is_the_value_associated_with_the_duplex_chalet_(2)": "333",
+    "what_is_the_estimated_cost_for_the_duplex_chalet_(2)_decorations": "3",
+    "what_is_the_expected_market_value_for_the_duplex_chalet_(3)": "3"
+}
+{
+    "question_index": 6,
+    "answers": {
+        "question_1": "yes",
+        "question_4": "200"
+    }
+}
+{
+    "question_index": 6,
+    "answers": {
+        "question_1": "yes",
+        "question_4": "size is 200, "
+    }
+}
+\nhi\nroaa hotel\n400 employee\n350  meter 
