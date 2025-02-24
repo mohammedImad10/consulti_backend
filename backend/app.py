@@ -1,3 +1,4 @@
+import os
 from flask import Flask, request, jsonify
 from flask_socketio import SocketIO, emit
 import asyncio
@@ -61,4 +62,6 @@ def handle_user_response(data):
         
 
 if __name__ == '__main__':
-    socketio.run(app, debug=True)
+    port = int(os.environ.get("PORT", 5001))
+    socketio.run(app, port=port, debug=False)
+    
