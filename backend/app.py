@@ -63,5 +63,5 @@ def handle_user_response(data):
 
 if __name__ == '__main__':
     port = int(os.environ.get("PORT", 5001))
-    socketio.run(app, port=port, debug=False)
+    socketio.run(app,host="0.0.0.0", port=port, debug=False)
     
